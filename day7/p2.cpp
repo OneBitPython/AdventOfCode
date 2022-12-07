@@ -48,6 +48,7 @@ void dfs(string u, string p){
 }
 void solve()
 {
+    
     string curr;
     vector<string>path_so_far = {"/"};
     string s;
